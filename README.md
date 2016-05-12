@@ -32,3 +32,4 @@
  - [#31: methods of arrayObject---reduce() and reduceRight()](http://www.codewars.com/kata/5732b0351eb838d03300101d)
  - [#32: methods of Math---round() ceil() and floor()](http://www.codewars.com/kata/5732d3c9791aafb0e4001236)
  - [#33: methods of Math---max() min() and abs()](http://www.codewars.com/kata/5733d6c2d780e20173000baa)
+ - [#34: methods of Math---pow() sqrt() and cbrt()](http://www.codewars.com/kata/5733f948d780e27df6000e33)
