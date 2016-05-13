@@ -37,7 +37,7 @@
  - [#36: methods of Math---kata author's lover:random()](http://www.codewars.com/kata/5735956413c2054a680009ec)
  
 # Other Katas series:
-###- [Coding 3 Minutes Series]()     
+###- [Coding 3 Minutes Series](https://github.com/myjinxin2015/Katas-list-of-Training-JS-series/blob/master/coding-3-min.md)     
 ###- [Shortest Code Series]() 
 ###- [Fastest Code Series]()
 ###- [Thinking and Testing Series]() 
