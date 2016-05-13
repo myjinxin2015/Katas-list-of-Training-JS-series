@@ -34,3 +34,12 @@
  - [#33: methods of Math---max() min() and abs()](http://www.codewars.com/kata/5733d6c2d780e20173000baa)
  - [#34: methods of Math---pow() sqrt() and cbrt()](http://www.codewars.com/kata/5733f948d780e27df6000e33)
  - [#35: methods of Math---log() and its family](http://www.codewars.com/kata/57353de879ccaeb9f8000564)
+ - [#36: methods of Math---kata author's lover:random()](http://www.codewars.com/kata/5735956413c2054a680009ec)
+ 
+# Other Katas series:
+###- [Coding 3 Minutes Series]()     
+###- [Shortest Code Series]() 
+###- [Fastest Code Series]()
+###- [Thinking and Testing Series]() 
+###- [Play Game Series]()
+###- [Pattern Series]()
