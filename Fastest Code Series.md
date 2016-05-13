@@ -5,6 +5,7 @@
 - [Half it IV](http://www.codewars.com/kata/5719b28964a584476500057d)
 - [Excel Puzzle #1](http://www.codewars.com/kata/571b93687beb0a8ade000a80)
 - [Excel Puzzle #2](http://www.codewars.com/kata/571d946faa2dcbe939000df4)
+
 # Other Kata Series:
 ###- [Training JS Series](http://github.com/myjinxin2015/Katas-list-of-Training-JS-series)     
 ###- [Coding 3 Minutes Series](https://github.com/myjinxin2015/Katas-list-of-Training-JS-series/blob/master/coding-3-min.md)     
