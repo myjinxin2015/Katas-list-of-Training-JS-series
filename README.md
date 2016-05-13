@@ -38,7 +38,7 @@
  
 # Other Katas series:
 ###- [Coding 3 Minutes Series](https://github.com/myjinxin2015/Katas-list-of-Training-JS-series/blob/master/coding-3-min.md)     
-###- [Shortest Code Series]() 
+###- [Shortest Code Series](https://github.com/myjinxin2015/Katas-list-of-Training-JS-series/blob/master/Shortest%20Code%20Series.md) 
 ###- [Fastest Code Series]()
 ###- [Thinking and Testing Series]() 
 ###- [Play Game Series]()
