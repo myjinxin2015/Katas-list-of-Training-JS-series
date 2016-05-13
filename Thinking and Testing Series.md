@@ -34,3 +34,12 @@
 - [33:The repair of parchment](http://www.codewars.com/kata/56f606236b88de2103000267)
 - [34:Who are you?](http://www.codewars.com/kata/56f6b4369400f51c8e000d64)
 - [35:Safe position](http://www.codewars.com/kata/56f7eb14f749ba513b0009c3)
+
+# Other Kata Series:
+###- [Training JS Series](http://github.com/myjinxin2015/Katas-list-of-Training-JS-series)     
+###- [Coding 3 Minutes Series](https://github.com/myjinxin2015/Katas-list-of-Training-JS-series/blob/master/coding-3-min.md)     
+###- [Shortest Code Series](https://github.com/myjinxin2015/Katas-list-of-Training-JS-series/blob/master/Shortest%20Code%20Series.md) 
+###- [Fastest Code Series](https://github.com/myjinxin2015/Katas-list-of-Training-JS-series/blob/master/Fastest%20Code%20Series.md)
+###- [Thinking and Testing Series](https://github.com/myjinxin2015/Katas-list-of-Training-JS-series/blob/master/Thinking%20and%20Testing%20Series.md) 
+###- [Play Game Series]()
+###- [Pattern Series]()
