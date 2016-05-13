@@ -21,3 +21,11 @@
  - [Virus in Apple](http://www.codewars.com/kata/56ffd817140fcc0c3900099b)
  - [Waiting for a Bus](http://www.codewars.com/kata/5705da6ccb7293991300055f)
  - [Tidy up the room](http://www.codewars.com/kata/57035af2d80ec6cdb40008ed)
+# Other Kata Series:
+###- [Training JS Series](http://github.com/myjinxin2015/Katas-list-of-Training-JS-series)     
+###- [Coding 3 Minutes Series](https://github.com/myjinxin2015/Katas-list-of-Training-JS-series/blob/master/coding-3-min.md)     
+###- [Shortest Code Series](https://github.com/myjinxin2015/Katas-list-of-Training-JS-series/blob/master/Shortest%20Code%20Series.md) 
+###- [Fastest Code Series](https://github.com/myjinxin2015/Katas-list-of-Training-JS-series/blob/master/Fastest%20Code%20Series.md)
+###- [Thinking and Testing Series](https://github.com/myjinxin2015/Katas-list-of-Training-JS-series/blob/master/Thinking%20and%20Testing%20Series.md) 
+###- [Play Game Series]()
+###- [Pattern Series]()
