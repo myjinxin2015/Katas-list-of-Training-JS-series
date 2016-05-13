@@ -24,9 +24,10 @@
  
 # Other Katas series:
 ###- [Training JS Series](http://github.com/myjinxin2015/Katas-list-of-Training-JS-series)     
-###- [Shortest Code Series]() 
-###- [Fastest Code Series]()
-###- [Thinking and Testing Series]() 
+###- [Coding 3 Minutes Series](https://github.com/myjinxin2015/Katas-list-of-Training-JS-series/blob/master/coding-3-min.md)     
+###- [Shortest Code Series](https://github.com/myjinxin2015/Katas-list-of-Training-JS-series/blob/master/Shortest%20Code%20Series.md) 
+###- [Fastest Code Series](https://github.com/myjinxin2015/Katas-list-of-Training-JS-series/blob/master/Fastest%20Code%20Series.md)
+###- [Thinking and Testing Series](https://github.com/myjinxin2015/Katas-list-of-Training-JS-series/blob/master/Thinking%20and%20Testing%20Series.md) 
 ###- [Play Game Series]()
 ###- [Pattern Series]()
 
