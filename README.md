@@ -35,6 +35,7 @@
  - [#34: methods of Math---pow() sqrt() and cbrt()](http://www.codewars.com/kata/5733f948d780e27df6000e33)
  - [#35: methods of Math---log() and its family](http://www.codewars.com/kata/57353de879ccaeb9f8000564)
  - [#36: methods of Math---kata author's lover:random()](http://www.codewars.com/kata/5735956413c2054a680009ec)
+ - [#37: Unlock new weapon---RegExp Object](http://www.codewars.com/kata/5735e39313c205fe39001173)
  
 # Other Katas series:
 ###- [Coding 3 Minutes Series](https://github.com/myjinxin2015/Katas-list-of-Training-JS-series/blob/master/coding-3-min.md)     
